@@ -1,0 +1,6 @@
+langchain
+langgraph
+flask
+assemblyai
+flask-cors
+langchain-google-genai
